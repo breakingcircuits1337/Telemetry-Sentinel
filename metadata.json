@@ -1,0 +1,6 @@
+{
+  "name": "Telemetry Alert",
+  "description": "Real-time telemetry monitor and privacy alert system featuring D3.js Shannon entropy heatmaps, geospatial ingestion heatmaps, dynamic privacy pulse health scoring, and active telemetry interdiction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
